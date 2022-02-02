@@ -1,0 +1,14 @@
+{
+    "name": "digitall-it/ebay-price-list-modifier",
+    "autoload": {
+        "psr-4": {
+            "DigitallIt\\EbayPriceListModifier\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Giancarlo Di Massa",
+            "email": "giancarlo@digitall.it"
+        }
+    ]
+}
